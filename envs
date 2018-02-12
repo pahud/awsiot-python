@@ -1,0 +1,5 @@
+IOT_CLIENT_ID=PahudDemoThing
+IOT_ENDPOINT=a2we3h0d2g8ljn.iot.ap-northeast-1.amazonaws.com
+IOT_ROOT_CA_PATH=./root.ca
+IOT_PRIVATE_KEY_PATH=./c91dad5bdd-private.pem.key
+IOT_CERT_PATH=./c91dad5bdd-certificate.pem.crt
