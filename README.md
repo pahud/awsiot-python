@@ -10,6 +10,12 @@ AWS IoT Python client sample with Docker container
 
 
 
+## configure
+
+Edit and configure `envs` file to define your variables properly.
+
+
+
 ## run
 
 `$ make run` // run the test
